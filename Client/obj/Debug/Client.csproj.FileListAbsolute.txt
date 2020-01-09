@@ -1,0 +1,10 @@
+C:\Users\SARVARBEK\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\SARVARBEK\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\SARVARBEK\Desktop\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\SARVARBEK\Desktop\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\SARVARBEK\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\SARVARBEK\Desktop\Client\Client\obj\Debug\Client.SettingsForm.resources
+C:\Users\SARVARBEK\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\SARVARBEK\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\SARVARBEK\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\SARVARBEK\Desktop\Client\Client\bin\Debug\Client.exe.config
